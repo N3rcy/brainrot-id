@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="brainrot-id",
-    version="0.1.1",
+    version="0.1.2",
     packages=find_packages(),
     include_package_data=True,
     entry_points={
@@ -28,4 +28,8 @@ setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.8',
+    project_urls={
+        "Homepage": "https://github.com/ваш-ник/brainrot-id",
+        "Bug Tracker": "https://github.com/ваш-ник/brainrot-id/issues",
+    },
 )
