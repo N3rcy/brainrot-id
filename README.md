@@ -1,5 +1,4 @@
 # 🧠💢 BrainRot-ID
-# now: testing
 
 Post-modern ID generator for:
 - Meme-based systems
